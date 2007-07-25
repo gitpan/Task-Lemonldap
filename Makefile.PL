@@ -3,6 +3,7 @@ use inc::Module::Install;
     name                 'Task-Lemonldap';
     author               'Kevin W. Henwood <Khen1950fx>';
     version              '0.01';
+    version_from         'lib/Task/Lemonldap.pm';
     all_from             'lib/Task/Lemonldap.pm';
     
     requires             'Task::Compress::Zlib'              => 0;

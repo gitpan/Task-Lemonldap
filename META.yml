@@ -98,4 +98,4 @@ requires:
   YAML: 0
   YAML::Syck: 0
   perl: 5.6.0
-version: 0.01
+version: 0.02

@@ -5,7 +5,7 @@ use strict;
 use warnings;
 
 
-our $VERSION = '0.01';
+our $VERSION = '0.02';
 
 
 1;
@@ -18,7 +18,7 @@ Task::Lemonldap - installs Lemonldap and Lemonldap::NG modules
 
 =head1 VERSION
 
-Task::Lemonldap 0.01
+Task::Lemonldap 0.02
 
 =head1 SYNOPSIS
 
