@@ -1,0 +1,101 @@
+--- 
+abstract: installs Lemonldap and Lemonldap::NG modules
+author: Kevin W. Henwood <Khen1950fx>
+build_requires: 
+  Test::More: 0
+  Test::Pod: 0
+  Test::Pod::Coverage: 0
+distribution_type: module
+generated_by: Module::Install version 0.67
+license: perl
+meta-spec: 
+  url: http://module-build.sourceforge.net/META-spec-v1.3.html
+  version: 1.3
+name: Task-Lemonldap
+no_index: 
+  directory: 
+    - inc
+    - t
+requires: 
+  Apache::Session: 0
+  AppConfig: 0
+  Authen::Smb: 0
+  AutoLoader: 0
+  BSD::Resource: 0
+  BerkeleyDB: 0
+  CAS: 0
+  CGI: 0
+  Cache::Memcached: 0
+  Class::MethodMaker: 0
+  Config::ApacheFormat: 0
+  Crypt::Blowfish: 0
+  Crypt::CBC: 0
+  Crypt::DES: 0
+  Crypt::IDEA: 0
+  Crypt::SaltedHash: 0
+  DBI: 0
+  DB_File: 0
+  Data::Dumper: 0
+  Digest: 0
+  Digest::HMAC_MD5: 0
+  Digest::MD5: 0
+  Digest::SHA1: 0
+  Error: 0
+  File::Spec: 0
+  File::Temp: 0
+  FreezeThaw: 0
+  GSSAPI: 0
+  Getopt::Long: 0
+  HTML::Parser: 0
+  IO::Socket: 0
+  IPC::ShareLite: 0
+  IPC::Shareable: 0
+  LWP::UserAgent: 0
+  Lemonldap::Cluster::Status: 0
+  Lemonldap::Config::Parameters: 0
+  Lemonldap::Federation::Shibboleth: 0
+  Lemonldap::Handlers::CAS: 0
+  Lemonldap::Handlers::Generic: 0
+  Lemonldap::NG::Handler: 0
+  Lemonldap::NG::Manager: 0
+  Lemonldap::Portal::Authntsso: 0
+  Lemonldap::Portal::CAS: 0
+  Lemonldap::Portal::Cda: 0
+  Lemonldap::Portal::Session: 0
+  Lemonldap::Portal::Sslsso: 0
+  Lemonldap::Portal::Standard: 0
+  MIME::Base64: 0
+  Net::FTP: 0
+  Net::LDAP: 0
+  Pod::Usage: 0
+  ResourcePool: 0
+  ResourcePool::Resource::Net::LDAP: 0
+  Safe: 0
+  Scalar::Util: 0
+  Storable: 0
+  String::CRC32: 0
+  Sub::Uplevel: 0
+  Task::Compress::Zlib: 0
+  Template: 0
+  Test::Deep: 0
+  Test::Exception: 0
+  Test::Harness: 0
+  Test::More: 0
+  Test::NoWarnings: 0
+  Test::Simple: 0
+  Test::Tester: 0
+  Text::Balanced: 0
+  Text::Iconv: 0
+  Time::HiRes: 0
+  UNIVERSAL::isa: 0
+  XML::Filter::BufferText: 0
+  XML::NamespaceSupport: 0
+  XML::Parser: 0
+  XML::SAX: 0
+  XML::SAX::Writer: 0
+  XML::Simple: 0
+  XSLoader: 0
+  YAML: 0
+  YAML::Syck: 0
+  perl: 5.6.0
+version: 0.01

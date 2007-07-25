@@ -1,0 +1,6 @@
+Revision history for Perl extension Task::Lemonldap.
+
+0.01  Tue Jul 24 22:46:03 2007
+	- original version; created by h2xs 1.23 with options
+		--compat-version=5.6.0 -AXcfn Task::Lemonldap
+
